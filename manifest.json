@@ -1,0 +1,13 @@
+{
+  "name": "ViewIcons",
+  "description": "Visualizza avatar e banner cliccabili nei menu utente, server e gruppi.",
+  "authors": [
+    {
+      "name": "Vendicated"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_image"
+  }
+}
